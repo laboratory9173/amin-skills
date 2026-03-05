@@ -1,7 +1,9 @@
-# SQL Server 模型创建者 (SQL Server Model Creator)
+---
+name: sqlserver-model-creator
+description: 此技能旨在帮助开发人员快速、一致地创建SQL Server数据库对象，包括表、存储过程、函数、视图等。该技能遵循公司的SQL Server命名规范和最佳实践，确保所有创建的数据库对象都符合公司标准。
+---
 
-## 技能概述
-此技能旨在帮助开发人员快速、一致地创建SQL Server数据库对象，包括表、存储过程、函数、视图等。该技能遵循公司的SQL Server命名规范和最佳实践，确保所有创建的数据库对象都符合公司标准。
+# SQL Server 模型创建者 (SQL Server Model Creator)
 
 ## 核心功能
 - 根据业务需求自动生成符合规范的数据库对象名称

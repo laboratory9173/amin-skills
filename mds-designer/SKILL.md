@@ -419,5 +419,5 @@ U(componentInstance+"/unusedSlot", {enabled: false})
 ## 参考资料
 
 - 组件库文件：`./skills/mds-designer/components.pen`
-- Pencil MCP 指南： `/skills/mds-designer/Pencil MCP 指南.md`
+- Pencil MCP 指南： `./skills/mds-designer/Pencil MCP 指南.md`
 - 本项目 Skill 目录：`./skills/mds-designer/`
